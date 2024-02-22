@@ -1,0 +1,43 @@
+body{
+    background-color: (rgba(29, 0, 0, 0.034), (rgba27, 1, 1, 0.021)), 
+}
+#table1{
+    text-align: center;
+    background-color: aliceblue;
+}
+#table1 td{
+    padding: 20px;
+}
+#table1 a
+{
+    font-size: 25px;
+    color: red;
+    text-decoration: none;
+}
+.banner{
+    background: linear-gradient(rgba(27, 1, 1, 0.062), black), url(../image/WhatsApp\ Image\ 2023-10-14\ at\ 12.29.23\ AM\ \(4\).jpeg);
+    background-size: cover;
+    padding: 10rem 9rem 10rem 5rem;
+}
+.banner span{
+    background-color: white;
+    padding: 7px;
+    border-radius: 10px;
+}
+.banner h1{
+    font-size: 3rem;
+    display: inline;
+    color: #e1e1e1;
+    text-shadow: 1px 1px 4px red;
+}
+.banner p{
+  color: #cacaca; 
+  line-height: 25px; 
+}
+.banner button{
+    padding: 5px 20px;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+}
+

@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(187, 71, 71, 0.658);
+  }
+  .content {
+    margin-top: 4rem;
+    margin-left: 4rem;
+    background-color: rgba(109, 81, 81, 0.486);
+    padding: 40px;
+  }
+  .content label {
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+  }
+  .content #inp1 {
+    width: 70%;
+    padding: 5px;
+    background-color: rgb(179, 194, 207);
+    border: none;
+  }
+  .content h2 {
+    font-family: arial;
+  }
+  .content fieldset {
+    border: 3px solid #fff;
+  }
